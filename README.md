@@ -96,7 +96,7 @@ Open an issue in this repository for questions, dataset requests or feature idea
 
 ## License
 
-Copyright 2026 Tycho Data GbR. All rights reserved.
+Copyright 2026 Tycho Data. All rights reserved.
 
 ## The name
 
